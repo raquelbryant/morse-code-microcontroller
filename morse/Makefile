@@ -2,4 +2,7 @@
 
 
 all:
-	gcc -o morse morse.c
+	gcc -o morseCodeEncoder morseCodeEncoder.c
+
+
+
