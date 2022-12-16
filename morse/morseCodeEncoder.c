@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+
+
 void main(){
 	char str[25], str1[100];
 
@@ -79,7 +81,8 @@ void main(){
 	str1[j-1] = '\0';
 	puts(str1);
 	getch();
+
+	printf(" .... . .-.. .-.. --- / .-- --- .-. .-.. -..");
+	return 0;
 }
-
-
 
